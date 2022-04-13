@@ -1,2 +1,5 @@
 # Phase-1-Email-Validation-Practice
 Java oops fundamentals
+mplements Java Fundamentals using Oops and Datastructures Validation of an Email ID Project objective: As a developer, write a program to search a string entered by a user from the array of strings.
+
+Background of the problem statement: You have an array of email IDs of employees. As a programmer, 2. write a program to search the email ID entered by a user. You must use the following: Eclipse/IntelliJ: An IDE to code the application Java: A programming language Git: To connect and push files from the local system to GitHub GitHub: To store the application code and track its versions Core Java concepts: Methods, collections, and strings Following requirements should be met: The versions of the code should be tracked on GitHub repositories The code should be able to search the required string from the array of strings Screenshots![Screenshot (106)](https://user-images.githubusercontent.com/101262767/163204017-d537c490-75b4-41ba-b965-94bf8aed1952.png)
