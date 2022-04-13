@@ -57,7 +57,7 @@ public class Client {
 	private void setEmailCount() {
 		System.out.println("****************************");
 		System.out.println("                     ==========Email Validation==========");
-		System.out.println("                            Developed By MUKEE JYOSTHNA");
+		System.out.println("                            Developed By MUKHEE JYOTHSNA");
 		System.out.println("******************************");
 		System.out.println("How many employee email id's do you want to enter? ");
 		no_of_emails = scan.nextInt();
